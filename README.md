@@ -1,3 +1,15 @@
+For start project 
+1. Download So.zip and install it,
+2. After install go to SO folder and start vsCode ,
+3. Open Terminal ,
+4. Type cd Backend and enter,
+5 .Type npm install (Install Node Module for Backend) then press enter,
+6. Type nodemon index.js (For start Backend) then press enter 
+6. Type cd .. then press enter
+7. Type npm install (Install Node Module for Frontend) then press enter
+8. Type npm Start (For starting the Frontend application) then press enter
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
